@@ -8,7 +8,7 @@
 # generate a new component
 $ vue-tools init custom-component
 # run karma tests
-$ vue-tools run kara
+$ vue-tools run karma
 # run saucelabs tests
 $ vue-tools run saucelabs
 ```
